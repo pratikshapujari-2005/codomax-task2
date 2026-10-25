@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1792915063213,
+    "title": "friendship",
+    "content": "hello",
+    "author": "demo",
+    "tag": "lifelesson",
+    "createdAt": "Oct 25, 2026"
+  },
+  {
+    "id": 1792915044864,
+    "title": "friendship",
+    "content": "hii",
+    "author": "demo",
+    "tag": "lifelesson",
+    "createdAt": "Oct 25, 2026"
+  },
+  {
+    "id": 1700000001,
+    "title": "Crafting Spaces That Inspire Calm and Creativity",
+    "content": "Modern architectural principles focus on natural light, tactile materials, and organic spatial flow. By paring down visual clutter and introducing warm, raw textures like oak and linen, interior design transforms from mere aesthetic layout into an immersive sensory retreat.",
+    "author": "Elena Rostova",
+    "tag": "Architecture & Design",
+    "createdAt": "Oct 24, 2026"
+  },
+  {
+    "id": 1700000002,
+    "title": "The Art of Slow Journalism in a Fast-Paced Digital Era",
+    "content": "In an era dominated by clickbait headlines and rapid news cycles, slow journalism offers deep research, thoughtful reflection, and narrative richness. Readers are increasingly seeking substance over speed, giving rise to independent newsletters and long-form publications.",
+    "author": "Marcus Chen",
+    "tag": "Publishing",
+    "createdAt": "Oct 22, 2026"
+  },
+  {
+    "id": 1700000003,
+    "title": "Building Scalable Web Apps with Micro-Frontends",
+    "content": "As modern web platforms grow, monolithic frontend codebases can become difficult to maintain across engineering teams. Decoupling applications into micro-frontends allows teams to deploy independently, choose optimal tech stacks, and iterate much faster.",
+    "author": "Pratiksha Pujari",
+    "tag": "Technology",
+    "createdAt": "Oct 20, 2026"
+  },
+  {
+    "id": 1700000004,
+    "title": "Savory Journal: Seasonal Cooking and Mindful Eating",
+    "content": "Exploring seasonal produce is one of the simplest ways to elevate daily home cooking. Autumn root vegetables, warm spices, and slow-simmered broths bring comforting aromas to the kitchen while honoring local agricultural cycles.",
+    "author": "Amara Thorne",
+    "tag": "Food & Lifestyle",
+    "createdAt": "Oct 18, 2026"
+  }
+]
